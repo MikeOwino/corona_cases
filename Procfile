@@ -5,3 +5,4 @@
 
 # Line continuation '\' doesn't work
 web: java -XX:+HeapDumpOnOutOfMemoryError -Djdk.attach.allowAttachSelf $JVM_OPTS -cp target/corona_cases-standalone.jar clojure.main -m corona.web.core
+
