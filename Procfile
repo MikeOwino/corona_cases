@@ -1,5 +1,7 @@
 # R10 Boot Timeout https://tools.heroku.support/limits/boot_timeout
 # default boot timeout 60 seconds
+# default boot timeout 60 seconds
+
 # Heroku App "hokuspokus-bot":   boot timeout increased to 180 seconds
 # Heroku App "corona-cases-bot": boot timeout increased to 180 seconds
 
